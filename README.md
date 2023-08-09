@@ -15,3 +15,6 @@ Stay in the know with instant alerts from RblxTools. Get notified about new rele
 RblxTools is more than a one-trick pony. Navigate Roblox more efficiently, search smarter, and access an array of useful functions that enrich your overall experience.
 
 Explore the unrivaled power of RblxTools and revolutionize your interaction with Roblox. Whether you're a collector, trader, or UGC creator, this extension is your key to unlocking Roblox's full potential. Elevate your gameplay, optimize strategies, and excel like never before with RblxTools. Upgrade your Roblox adventure today!
+
+
+# TUTORIAL FOR INSTALLATION IS IN THE FILES!
